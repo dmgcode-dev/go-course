@@ -1,0 +1,2 @@
+This is my fancy test file contents!
+Also a second line exists.
